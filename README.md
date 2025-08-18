@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Michael  
-### Backend Engineer | Problem Solver | Lifelong Learner 🚀
+### Backend Engineer | Lifelong Learner 🚀
 
 I get weirdly excited about web technologies and the likes.  
 If you're interested in the same, hit me up on my socials — I'd love to hear from you 😃.  
 
-✉️ Contact me at [nwaizumichael0@gmail.com](mailto:nwaizumichael0@gmail.com) or hit me up on Twitter [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)  
+✉️ Contact me at [nwaizumichael0@gmail.com](mailto:nwaizumichael0@gmail.com) or hit me up on Twitter [@YourTwitterHandle](https://twitter.com/@MichaelNwaizu)  
 📚 Currently exploring building **progressive web applications**  
 🤝 Open to collaborating on projects  
 
