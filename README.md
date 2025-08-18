@@ -18,6 +18,6 @@ Git • GitHub • Linux • Docker (beginner)
 ---
 
 ## 🌐 Socials  
-📧 [Email Me](mailto:nwaizumichael0@gmail.com)  
-🐦 [Twitter: @YourTwitterHandle](https://twitter.com/@MichaelNwaizu)  
-💼 [LinkedIn: Michael Nwaizu](https://www.linkedin.com/in/NwaizuMichael/)  
+📧 [nwaizumichael0@gmail.com](mailto:nwaizumichael0@gmail.com)  
+🐦 [Twitter: @Michael Nwaizu](https://twitter.com/MichaelNwaizu)  
+💼 [LinkedIn: Nwaizu Michael](https://www.linkedin.com/in/NwaizuMichael/)  
