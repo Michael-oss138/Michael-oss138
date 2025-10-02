@@ -8,14 +8,6 @@ If you're interested in the same, hit me up on my socials — I'd love to hear f
 📚 Currently exploring building **progressive web applications**  
 🤝 Open to collaborating on projects  
 
----
-
-## 🛠 Skills  
-MySQL • PostgreSQL  
-Git • GitHub • Linux • Docker (beginner)
-
-HTML5 • CSS3 • JavaScript • TypeScript • React • NextJS • Python 
-
 
 ---
 
